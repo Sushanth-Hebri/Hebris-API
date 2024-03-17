@@ -14,7 +14,7 @@ This API provides a random joke generator endpoint that returns a random joke in
 ## Usage
 
 To use the random joke endpoint, make a GET request to the endpoint URL:
-![Usage](https://github.com/Sushanth-Hebri/Hebris-API/images/Screenshot 2024-03-17 115615.png)
+![Result](https://github.com/Sushanth-Hebri/Hebris-API/blob/main/images/randome-joke-result.png)
 
 
 ```bash
