@@ -14,6 +14,7 @@ dynamicDiv.style.display = 'flex';
 dynamicDiv.style.justifyContent = 'center';
 dynamicDiv.style.alignItems = 'center';
 dynamicDiv.style.color = '#fff';
+dynamicDiv.style.fontStyle = 'italic';
 dynamicDiv.style.fontWeight = 'bold';
 dynamicDiv.style.cursor = 'pointer';
 dynamicDiv.textContent = 'Hebris'; 
