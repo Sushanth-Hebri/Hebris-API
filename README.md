@@ -14,6 +14,8 @@ This API provides a random joke generator endpoint that returns a random joke in
 ## Usage
 
 To use the random joke endpoint, make a GET request to the endpoint URL:
+![Usage](https://raw.githubusercontent.com/your-username/your-repo/main/usage.png)
+
 
 ```bash
 curl https://hebris-apis.onrender.com/random-joke
